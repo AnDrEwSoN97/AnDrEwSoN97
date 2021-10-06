@@ -9,7 +9,7 @@
   <img src="https://github.com/andrewson97/AnDrEwSoN97/blob/main/giphy.gif" height="150"/>
 </p>
  <p align="center">
-  <img src="https://img.shields.io/badge/Intrest-AI%20    IoT%20    ML-blue" />
+  <img src="https://img.shields.io/badge/Intrest-AI,%20    IoT,%20    ML-blue" />
   <img src="https://img.shields.io/badge/Lives-Colombo,Sri%20Lanka-purple" />
   <img src="https://img.shields.io/badge/Languages-English%20Tamil%20%26%20Sinhala-blueviolet" />
 </p>
@@ -32,11 +32,11 @@
     I am, I Andrewson Croos, a <b>Third year</b> undergraduate at<a href="https://www.uom.lk/"><b> Dept. of Computer Science & Engineering </b> <a href="https://www.uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
     A budding <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Competitive AI and IoT Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b>
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 </p>
 
 
