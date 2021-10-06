@@ -65,7 +65,7 @@
   </a>
 </p>
     
-<h3 align="center">Block Chain :</h3>
+<h3 align="center">Block Chain</h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <img src="https://i.ytimg.com/vi/G8bDhS24eds/maxresdefault.jpg" height= "30">
@@ -73,13 +73,13 @@
  <img src ="https://static.vecteezy.com/system/resources/previews/002/473/294/non_2x/nft-symbol-non-fungible-token-icon-free-vector.jpg" height ="30"
 </p>
 
-<h3 align="center">Hardware :</h3>
+<h3 align="center">Hardware</h3>
 <p align="center"> 
 <img src="https://e7.pngegg.com/pngimages/267/598/png-clipart-raspberry-pi-computer-icons-secure-digital-noobs-raspberry-computer-computer-program-thumbnail.png" height ="29">
 <img src="https://logowik.com/content/uploads/images/arduino5804.jpg" height ="29">
 </p>
     
-<h3 align="center">Network :</h3>
+<h3 align="center">Network</h3>
 <p align="center"> 
 <img src="https://www.libelium.com/wp-content/uploads/2019/11/lorawan.png" height = "29" >
  
